@@ -1,2 +1,18 @@
-# Zenith-Valley
-Zenith Valley is a responsive personal finance advisor website built with Webflow. Without using CMS, I crafted a static yet fully functional site, focusing on clean design and intuitive navigation. The site provides users with easy access to financial advice and services, offering a seamless experience with engaging custom interactions.
+# Zenith Valley
+
+A responsive personal-finance advisor website concept built in Webflow.
+
+## What I worked on
+
+- Static responsive page implementation
+- Clear navigation and service presentation
+- Custom interactions
+- Desktop, tablet, and mobile layouts
+
+## Stack
+
+Webflow · Custom interactions
+
+## Project status
+
+Static portfolio concept without Webflow CMS. No public live demo is currently included.
